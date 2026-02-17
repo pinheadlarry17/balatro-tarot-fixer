@@ -17,3 +17,4 @@ The Tarot-cards "Strength" and "Justice" are incorrectly numbered in-game. This 
 - Click on the green _"<> Code"_-button above
 -  Select _"Download ZIP"_
 -  Open the .zip file and drag and drop the folder named _"TarotFixer"_ into your Balatro mods folder (should be under _%appdata%/Balatro/Mods_, check the Steammodded GitHub-page for a more detailed explanation)
+-  Activate the mod in-game in the main menu by clicking on _"Options"_, _"Textures"_, select the mod and click _"Apply"_ 
